@@ -19,7 +19,7 @@
           "2a44e1a9-2dd3-453a-bd52-40d99eb37995": {
             "type": "announcement",
             "settings": {
-              "text": "test",
+              "text": "Welcome to Phreypress!",
               "color_scheme": "accent-1",
               "link": ""
             }
