@@ -1021,8 +1021,8 @@ summary::-webkit-details-marker {
 }
 
 .grid--1-col .grid__item {
-  max-width: 25%;
-  width: 25%;
+  max-width: 33%;
+  width: 33%;
 }
 
 .grid--3-col .grid__item {
