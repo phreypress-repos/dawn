@@ -18,6 +18,7 @@
           },
           "2a44e1a9-2dd3-453a-bd52-40d99eb37995": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Welcome to Phreypress!",
               "color_scheme": "accent-1",
@@ -35,9 +36,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
-          "logo_width": 90,
-          "logo_position": "middle-left",
+          "color_scheme": "background-2",
+          "logo": "shopify:\/\/shop_images\/web-banner-1-reduced.png",
+          "logo_width": 250,
+          "logo_position": "top-center",
           "menu": "main-menu",
           "show_line_separator": true,
           "enable_sticky_header": true,
