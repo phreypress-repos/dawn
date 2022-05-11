@@ -15,10 +15,19 @@
               "color_scheme": "background-1",
               "link": ""
             }
+          },
+          "2a44e1a9-2dd3-453a-bd52-40d99eb37995": {
+            "type": "announcement",
+            "settings": {
+              "text": "test",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "2a44e1a9-2dd3-453a-bd52-40d99eb37995"
         ],
         "settings": {
         }
