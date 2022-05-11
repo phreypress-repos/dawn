@@ -1,6 +1,7 @@
 {
   "current": {
-    "colors_background_2": "#F3F3F3",
+    "colors_accent_1": "#b5d06a",
+    "colors_background_2": "#b5d06a",
     "media_shadow_vertical_offset": 0,
     "sections": {
       "announcement-bar": {
