@@ -161,15 +161,15 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-05-13_at_18-40-48_Pam_Humphrey___Remi_Carrington_phreypress_Instagram_photos_and_videos.png",
+            "title": "99 Cent Sale",
+            "text": "",
+            "link_label": "Never Say Never",
+            "link": "shopify:\/\/collections\/never-say-never"
           }
         },
         "column2": {
