@@ -25,6 +25,8 @@
     "social_twitter_link": "https:\/\/twitter.com\/PhreyPress",
     "social_facebook_link": "https:\/\/www.facebook.com\/phreypress",
     "social_instagram_link": "https:\/\/www.instagram.com\/phreypress\/",
+    "show_vendor": true,
+    "cart_drawer_collection": "remi-carrington",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
