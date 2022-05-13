@@ -82,8 +82,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured Products",
-        "heading_size": "h2",
+        "title": "May 2022 Features",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -92,7 +92,7 @@
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
-        "view_all_style": "solid",
+        "view_all_style": "link",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
