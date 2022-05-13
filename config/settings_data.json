@@ -3,6 +3,8 @@
     "colors_accent_1": "#b5d06a",
     "colors_accent_2": "#e22120",
     "colors_background_2": "#b5d06a",
+    "type_header_font": "abril_fatface_n4",
+    "heading_scale": 150,
     "card_style": "standard",
     "card_text_alignment": "left",
     "card_border_thickness": 0,
