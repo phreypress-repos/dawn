@@ -175,10 +175,11 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Screenshot_2022-05-13_at_18-40-34_Pam_Humphrey___Remi_Carrington_phreypress_Instagram_photos_and_videos.png",
+            "title": "Remi Carrington",
+            "text": "",
+            "link_label": "Remi Carrington",
+            "link": "shopify:\/\/collections\/remi-carrington"
           }
         },
         "column3": {
