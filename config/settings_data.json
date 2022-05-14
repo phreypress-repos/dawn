@@ -45,7 +45,7 @@
             "type": "announcement",
             "settings": {
               "text": "Checkout Our Latest Series - Stargazer Springs Ranch",
-              "color_scheme": "background-2",
+              "color_scheme": "accent-2",
               "link": "shopify:\/\/collections\/stargazer-springs-ranch"
             }
           },
