@@ -199,8 +199,8 @@
         "column3"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h2",
+        "title": "Get it while it's hot...",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -208,7 +208,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
