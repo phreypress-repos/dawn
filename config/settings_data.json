@@ -33,11 +33,10 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
-              "link": ""
+              "text": "Checkout Our Latest Series - Stargazer Springs Ranch",
+              "color_scheme": "background-2",
+              "link": "shopify:\/\/collections\/stargazer-springs-ranch"
             }
           },
           "2a44e1a9-2dd3-453a-bd52-40d99eb37995": {
