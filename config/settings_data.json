@@ -28,11 +28,14 @@
     "show_vendor": true,
     "cart_drawer_collection": "remi-carrington",
     "checkout_header_image": "shopify:\/\/shop_images\/web-banner-1-reduced.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/web-banner-1_1.png",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#8c9bad",
     "checkout_input_background_color_mode": "white",
     "checkout_sidebar_background_color": "#FFFFFF",
+    "checkout_heading_font": "Vidaloka",
+    "checkout_body_font": "Vidaloka",
+    "checkout_accent_color": "#e22120",
+    "checkout_button_color": "#e22120",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
