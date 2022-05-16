@@ -43,6 +43,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Checkout Our Latest Series - Stargazer Springs Ranch",
               "color_scheme": "accent-1",
@@ -69,8 +70,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/web-banner-1_1.png",
+          "color_scheme": "accent-1",
           "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
