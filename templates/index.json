@@ -52,6 +52,44 @@
         "show_text_below": true
       }
     },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "disabled": true,
@@ -98,7 +136,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -108,45 +146,6 @@
         "swipe_on_mobile": true,
         "padding_top": 28,
         "padding_bottom": 16
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "video": {
@@ -165,6 +164,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -222,9 +222,9 @@
   },
   "order": [
     "image_banner",
+    "collage",
     "rich_text",
     "featured_collection",
-    "collage",
     "video",
     "multicolumn"
   ]
