@@ -39,7 +39,7 @@
       ],
       "settings": {
         "image_link": "shopify:\/\/collections\/cowboys-of-stargazer-springs",
-        "image": "shopify:\/\/shop_images\/Banner_-1Jun22_08c65526-10de-4c77-aea3-58517d406670.jpg",
+        "image": "shopify:\/\/shop_images\/Banner_-2Jun22_490e03f7-a8e9-4fff-991f-05dd7ac1f099.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
@@ -54,6 +54,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
