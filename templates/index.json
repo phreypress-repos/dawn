@@ -238,8 +238,8 @@
       "settings": {
         "title": "Shop by Series",
         "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
