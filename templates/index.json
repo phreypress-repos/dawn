@@ -54,17 +54,18 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "never-say-never"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "more-than-a-pair-of-jeans",
             "second_image": false
           }
         },
@@ -85,7 +86,7 @@
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -164,14 +165,13 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2022-05-13_at_18-40-48_Pam_Humphrey___Remi_Carrington_phreypress_Instagram_photos_and_videos.png",
-            "title": "99 Cent Sale",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Never_Say_Never_Collection.jpg",
+            "title": "",
+            "text": "<p>This romcom series has spiffy new covers! <\/p>",
             "link_label": "Never Say Never",
             "link": "shopify:\/\/collections\/never-say-never"
           }
@@ -179,32 +179,65 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2022-05-13_at_18-40-34_Pam_Humphrey___Remi_Carrington_phreypress_Instagram_photos_and_videos.png",
-            "title": "Remi Carrington",
-            "text": "",
-            "link_label": "Remi Carrington",
-            "link": "shopify:\/\/collections\/remi-carrington"
+            "image": "shopify:\/\/shop_images\/Stargazer_Springs_Ranch_Collection.jpg",
+            "title": "",
+            "text": "<p>RomComs with characters over 40<\/p>",
+            "link_label": "Stargazer Springs Ranch",
+            "link": "shopify:\/\/collections\/stargazer-springs-ranch"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2022-05-13_at_18-39-59_Pam_Humphrey___Remi_Carrington_phreypress_Instagram_photos_and_videos.png",
-            "title": "Stargazer Springs",
-            "text": "",
-            "link_label": "Stargazer Springs",
-            "link": "shopify:\/\/collections\/cowboys-of-stargazer-springs"
+            "image": "shopify:\/\/shop_images\/Hill_Country_Secrets_Collection.jpg",
+            "title": "",
+            "text": "<p>Romantic Suspense in the Texas Hill Country<\/p>",
+            "link_label": "Hill Country Secrets",
+            "link": "shopify:\/\/collections\/hill-country-secrets"
+          }
+        },
+        "185c2b68-91c3-4625-afb9-5060d5e39fea": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bluebonnets_and_Billioniares_Collection.jpg",
+            "title": "",
+            "text": "<p>Guys with lots of money & even more heart.<\/p>",
+            "link_label": "Bluebonnets & Billionaires",
+            "link": "shopify:\/\/collections\/bluebonnets-billionaires"
+          }
+        },
+        "047d4924-56e6-443d-ba97-04169b42481b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cheesecake_Collection.jpg",
+            "title": "",
+            "text": "<p>Sweet Romance with characters over 40<\/p>",
+            "link_label": "Cheesecake, Margaritas & Candlelight",
+            "link": "shopify:\/\/collections\/cheesecake-margaritas-candlelight"
+          }
+        },
+        "2939dc10-56a5-4d47-a36f-ab6f493cf85b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Loves_Secrets_Collection.jpg",
+            "title": "",
+            "text": "<p>Stories of family and love in Schatzenburg, TX.<\/p>",
+            "link_label": "Love's Secrets",
+            "link": "shopify:\/\/collections\/schatzenburg"
           }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "185c2b68-91c3-4625-afb9-5060d5e39fea",
+        "047d4924-56e6-443d-ba97-04169b42481b",
+        "2939dc10-56a5-4d47-a36f-ab6f493cf85b"
       ],
       "settings": {
-        "title": "Get it while it's hot...",
-        "heading_size": "h1",
+        "title": "Shop by Series",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -212,7 +245,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
