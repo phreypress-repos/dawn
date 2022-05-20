@@ -171,7 +171,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Never_Say_Never_Collection.jpg",
             "title": "",
-            "text": "<p>This romcom series has spiffy new covers! <\/p>",
+            "text": "<p>Sometimes LOVE surprises you<\/p>",
             "link_label": "Never Say Never",
             "link": "shopify:\/\/collections\/never-say-never"
           }
@@ -191,7 +191,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Hill_Country_Secrets_Collection.jpg",
             "title": "",
-            "text": "<p>Romantic Suspense in the Texas Hill Country<\/p>",
+            "text": "<p>Romantic Suspense set in Texas<\/p>",
             "link_label": "Hill Country Secrets",
             "link": "shopify:\/\/collections\/hill-country-secrets"
           }
@@ -201,7 +201,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Bluebonnets_and_Billioniares_Collection.jpg",
             "title": "",
-            "text": "<p>Guys with lots of money & even more heart.<\/p>",
+            "text": "<p>Guys with lots of money & even more heart<\/p>",
             "link_label": "Bluebonnets & Billionaires",
             "link": "shopify:\/\/collections\/bluebonnets-billionaires"
           }
@@ -221,7 +221,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Loves_Secrets_Collection.jpg",
             "title": "",
-            "text": "<p>Stories of family and love in Schatzenburg, TX.<\/p>",
+            "text": "<p>Stories of family and love in Schatzenburg<\/p>",
             "link_label": "Love's Secrets",
             "link": "shopify:\/\/collections\/schatzenburg"
           }
@@ -242,7 +242,7 @@
         "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
