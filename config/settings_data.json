@@ -2,7 +2,7 @@
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#7196a9",
-    "colors_accent_2": "#ce7e6d",
+    "colors_accent_2": "#a7334b",
     "colors_text": "#121212",
     "colors_background_2": "#f7f0e9",
     "type_header_font": "abril_fatface_n4",
@@ -30,7 +30,7 @@
     "favicon": "shopify:\/\/shop_images\/Phrey_Press_Logo__Color_Square.png",
     "show_vendor": true,
     "cart_drawer_collection": "remi-carrington",
-    "checkout_header_image": "shopify:\/\/shop_images\/web-banner-1-reduced.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/Exit_Banner-v1_86003dea-a25f-4a0f-a805-912314c47e12.jpg",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#8c9bad",
     "checkout_input_background_color_mode": "white",
