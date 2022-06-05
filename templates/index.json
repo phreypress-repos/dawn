@@ -189,40 +189,39 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hill_Country_Secrets_Collection.jpg",
+            "image": "shopify:\/\/shop_images\/Bluebonnets_and_Billioniares_Collection.jpg",
             "title": "",
-            "text": "<p>Romantic Suspense set in Texas<\/p>",
-            "link_label": "Hill Country Secrets",
-            "link": "shopify:\/\/collections\/hill-country-secrets"
+            "text": "<p>Guys with lots of money & even more heart<\/p>",
+            "link_label": "Bluebonnets & Billioniares",
+            "link": "shopify:\/\/collections\/bluebonnets-billionaires"
           }
         },
         "185c2b68-91c3-4625-afb9-5060d5e39fea": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bluebonnets_and_Billioniares_Collection.jpg",
+            "image": "shopify:\/\/shop_images\/Cowboys_of_Stargazer_Springs_Collection.jpg",
             "title": "",
-            "text": "<p>Guys with lots of money & even more heart<\/p>",
-            "link_label": "Bluebonnets & Billionaires",
-            "link": "shopify:\/\/collections\/bluebonnets-billionaires"
+            "text": "<p>Even ranch hands fall in love<\/p>",
+            "link_label": "Cowboys of Stargazer Springs",
+            "link": "shopify:\/\/collections\/cowboys-of-stargazer-springs"
           }
         },
         "047d4924-56e6-443d-ba97-04169b42481b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cheesecake_Collection.jpg",
+            "image": "shopify:\/\/shop_images\/Christmas_Cheer_Collection.jpg",
             "title": "",
-            "text": "<p>Sweet Romance with characters over 40<\/p>",
-            "link_label": "Cheesecake, Margaritas & Candlelight",
-            "link": "shopify:\/\/collections\/cheesecake-margaritas-candlelight"
+            "text": "<p>Christmas short reads<\/p>",
+            "link_label": "Christmas Cheer",
+            "link": "shopify:\/\/collections\/christmas-cheer"
           }
         },
         "2939dc10-56a5-4d47-a36f-ab6f493cf85b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Loves_Secrets_Collection.jpg",
             "title": "",
-            "text": "<p>Stories of family and love in Schatzenburg<\/p>",
-            "link_label": "Love's Secrets",
+            "text": "",
+            "link_label": "",
             "link": "shopify:\/\/collections\/schatzenburg"
           }
         }
