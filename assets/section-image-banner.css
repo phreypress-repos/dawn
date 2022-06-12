@@ -449,7 +449,7 @@
 		display: none;
 	}
 	.banner__media+.banner__media {
-		width: 100%;
+		width: 50%;
 		display: block !important;
 	}
 }
