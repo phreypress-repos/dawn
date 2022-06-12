@@ -450,7 +450,7 @@
 	}
 	.banner__media+.banner__media {
 		width: 100%;
-      	height: fit-content;
+      	height: 200%;
 		display: block !important;
 	}
 }
