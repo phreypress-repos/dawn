@@ -42,7 +42,7 @@
         "image": "shopify:\/\/shop_images\/Banner_-2xxxJun22.jpg",
         "image_2": "shopify:\/\/shop_images\/Mobile_Banner_-2xxxJun22_80f2b062-4ed3-40f3-b0d6-c56aa10c4abd.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": false,
