@@ -1,8 +1,10 @@
 {
   "current": {
+    "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#7196a9",
-    "colors_accent_2": "#e22120",
-    "colors_background_2": "#dedede",
+    "colors_accent_2": "#a7334b",
+    "colors_text": "#121212",
+    "colors_background_2": "#f7f0e9",
     "type_header_font": "abril_fatface_n4",
     "heading_scale": 150,
     "buttons_border_thickness": 1,
@@ -25,18 +27,19 @@
     "social_twitter_link": "https:\/\/twitter.com\/PhreyPress",
     "social_facebook_link": "https:\/\/www.facebook.com\/phreypress",
     "social_instagram_link": "https:\/\/www.instagram.com\/phreypress\/",
-    "favicon": "shopify:\/\/shop_images\/web-banner-1_1.png",
+    "favicon": "shopify:\/\/shop_images\/Phrey_Press_Logo__Color_Square.png",
     "show_vendor": true,
     "cart_drawer_collection": "remi-carrington",
-    "checkout_header_image": "shopify:\/\/shop_images\/web-banner-1-reduced.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/Exit_Banner-v2_0d291804-0ef8-4ff2-9332-62aead31caea.jpg",
     "checkout_logo_size": "small",
-    "checkout_body_background_color": "#8c9bad",
+    "checkout_body_background_color": "#f9f6f3",
     "checkout_input_background_color_mode": "white",
-    "checkout_sidebar_background_color": "#FFFFFF",
+    "checkout_sidebar_background_color": "#ffffff",
     "checkout_heading_font": "Vidaloka",
     "checkout_body_font": "Vidaloka",
-    "checkout_accent_color": "#e22120",
-    "checkout_button_color": "#e22120",
+    "checkout_accent_color": "#a7334b",
+    "checkout_button_color": "#7196a9",
+    "checkout_error_color": "#f60b0b",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -116,7 +119,7 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "accent-1",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
