@@ -90,9 +90,8 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
-              "heading": "Quick links",
+              "heading": ". . .",
               "menu": "footer"
             }
           },
@@ -120,7 +119,7 @@
         ],
         "settings": {
           "color_scheme": "accent-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
           "enable_country_selector": false,
